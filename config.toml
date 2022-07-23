@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = '/'
+publishdir = 'docs'
 languageCode = 'fr-fr'
 title = 'VaVaSPACE 50'
 theme = 'reveal-hugo'
