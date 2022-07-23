@@ -48,7 +48,7 @@ outputs = ["Reveal"]
 ## Rendez-vous 
 {{< slide background-video="disco.mp4" transition="zoom" transition-speed="fast" >}}
 
-Jeudi 4 Aoùt à 20:00 au 
+Jeudi 4 Août 2022 à 20:00 au 
 
 44.7413554057831, -0.5764847576302207
 
