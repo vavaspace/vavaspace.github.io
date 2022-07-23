@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+languageCode = 'fr-fr'
+title = 'VaVaSPACE 50'
+theme = 'reveal-hugo'
+
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
+background = "#FFF"
+
+[params.reveal_hugo]
+theme = "moon"
