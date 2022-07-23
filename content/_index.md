@@ -40,7 +40,10 @@ outputs = ["Reveal"]
 
 
 ## Rendez-vous 
+{{< slide background-video="disco.mp4" transition="zoom" transition-speed="fast" >}}
 
 Mercredi 27 Juillet à 20:00 au 
 
 44.7413554057831, -0.5764847576302207
+
+## 
