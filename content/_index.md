@@ -21,12 +21,18 @@ outputs = ["Reveal"]
 --- 
 {{< slide background-video="evazoski.mp4" transition="zoom" transition-speed="fast" >}}
 
-### mais aussi de la technicité ...
+### mais aussi de technicité ...
 
 --- 
 {{< slide background-image="2.png" transition="zoom" transition-speed="fast" >}}
 
-#### et finalement des capacités intellectuelles et manuelles ...
+#### des capacités physiques ...
+
+
+--- 
+{{< slide background-image="3.png" transition="zoom" transition-speed="fast" >}}
+
+#### et pour finir intellectuelles  ...
 
 
 --- 
@@ -42,7 +48,7 @@ outputs = ["Reveal"]
 ## Rendez-vous 
 {{< slide background-video="disco.mp4" transition="zoom" transition-speed="fast" >}}
 
-Mercredi 27 Juillet à 20:00 au 
+Jeudi 4 Aoùt à 20:00 au 
 
 44.7413554057831, -0.5764847576302207
 
