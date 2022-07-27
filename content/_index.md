@@ -7,7 +7,6 @@ outputs = ["Reveal"]
 ## VAVASPACE 50
 #### L'histoire a commencé il y a 10 ans, pour ses 40 ans Vava devait réaliser ...
 
-
 --- 
 {{< slide background="#ff4081" transition="zoom" transition-speed="fast" >}}
 
@@ -48,7 +47,9 @@ outputs = ["Reveal"]
 ## Rendez-vous 
 {{< slide background-video="disco.mp4" transition="zoom" transition-speed="fast" >}}
 
-Jeudi 4 Août 2022 à 20:00 au 
+~~Jeudi 4 Août~~ Vendredi 5 Août 2022 à 20:00 
+
+au 
 
 44.7413554057831, -0.5764847576302207
 
